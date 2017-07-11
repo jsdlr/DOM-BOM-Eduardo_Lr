@@ -1,0 +1,19 @@
+.pantalla{
+  padding-top: 3%;
+  min-height: 560px;
+  background-color: #333333;
+}
+
+.contenido{
+  color: white;
+  text-align: justify;
+  margin: auto;
+}
+
+button{
+  background: #9ACD32;
+}
+
+#apple:hover{
+  color: #9ACD32;
+} 
